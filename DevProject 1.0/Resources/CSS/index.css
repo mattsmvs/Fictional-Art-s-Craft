@@ -1,0 +1,65 @@
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("../pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  opacity: 0.75;
+}
+
+h1, h2, h3 {
+  font-family: Helvetica;
+  text-align: center;
+}
+nav {
+  text-align: center;
+  font-family: Helvetica;
+  color: khaki;
+  font-size: 18px;
+}
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/1863228.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+p {
+  font-family: Arial;
+  text-align: center;
+  font-size: 16px;
+}
+
+.foot, h5{
+  text-align: center;
+  font-size: x-small;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pricing{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
